@@ -4,9 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kanon98&label=Profile%20views&color=0e75b6&style=flat" alt="kanon98" /> </p>
 
-- 🌱 I’m currently learning **React, Django and Laravel**
+- 🌱 I’m currently learning **Android development in Kotlin**
 
-- 💬 Ask me about **Python**
+- 💬 Ask me about **Python || Kotlin || Android Dev**
 
 - 📫 How to reach me **al.nahiaan024@gmail.com**
 
