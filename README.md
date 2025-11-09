@@ -23,7 +23,7 @@
 
 #### 🧰 Tools & Platforms
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,figma,firebase,sqlite,realm,linux" />
+  <img src="https://skillicons.dev/icons?i=git,github,figma,firebase,sqlite,linux" />
 </p>
 
 ---
