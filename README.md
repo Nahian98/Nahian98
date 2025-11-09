@@ -1,5 +1,5 @@
 <!-- Profile Header -->
-<h1 align="center">Hi there 👋, I'm [Your Name]</h1>
+<h1 align="center">Hi there 👋, I'm Nahian Kanon</h1>
 <h3 align="center">💻 Android Developer | Kotlin Enthusiast | Tech Explorer</h3>
 
 ---
@@ -39,7 +39,8 @@
 ### 🚀 Featured Projects
 | Project | Description | Tech |
 |----------|--------------|------|
-| 🎵 **Offline Music Player** | A feature-rich local music player with equalizer, crossfade, and media observer. | Kotlin, Realm, MediaStore, MVVM |
+| | 🎵 **Offline Music Player** | A feature-rich local music player with equalizer, cross platform music share, smart playlists and more.<br><a href="https://play.google.com/store/apps/details?id=com.offlinemusicplayer"><img src="https://img.shields.io/badge/Play%20Store-3DDC84?style=for-the-badge&logo=google-play&logoColor=white"/></a> | Kotlin, Realm, MediaStore, MVVM |
+
 | 📡 **File Share App** | Share files via Hotspot, Wi-Fi Direct, and WebSocket with progress tracking. | Ktor, OkHttp, NanoHTTPD |
 
 ---
@@ -76,4 +77,4 @@
 
 ---
 
-⭐️ From [Nahian Kanon](https://github.com/Nahian98)
+⭐️ From Nahian Kanon (https://github.com/Nahian98)
