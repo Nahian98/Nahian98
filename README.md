@@ -41,8 +41,6 @@
 |----------|--------------|------|
 | | 🎵 **Offline Music Player** | A feature-rich local music player with equalizer, cross platform music share, smart playlists and more.<br><a href="https://play.google.com/store/apps/details?id=com.offlinemusicplayer"><img src="https://img.shields.io/badge/Play%20Store-3DDC84?style=for-the-badge&logo=google-play&logoColor=white"/></a> | Kotlin, Realm, MediaStore, MVVM |
 
-| 📡 **File Share App** | Share files via Hotspot, Wi-Fi Direct, and WebSocket with progress tracking. | Ktor, OkHttp, NanoHTTPD |
-
 ---
 
 ### 🌱 Currently Learning
