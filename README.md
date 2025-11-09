@@ -39,7 +39,7 @@
 ### 🚀 Featured Projects
 | Project | Description | Tech |
 |----------|--------------|------|
-| <img src="https://play-lh.googleusercontent.com/t2pN20Dqeao5zE2Sk4bN3x8_8M8igIXfOxCDwGB_ZybO69qnDiVR40NeDMAyk4QKmu4" alt="Offline Music Player" width="150" /> | 🎵 **Offline Music Player** | A feature-rich local music player with equalizer, cross platform music share, smart playlists and more.<br><a href="https://play.google.com/store/apps/details?id=com.offlinemusicplayer"><img src="https://img.shields.io/badge/Play%20Store-3DDC84?style=for-the-badge&logo=google-play&logoColor=white"/></a> | Kotlin, Realm, MediaStore, MVVM |
+| <img src="https://play-lh.googleusercontent.com/t2pN20Dqeao5zE2Sk4bN3x8_8M8igIXfOxCDwGB_ZybO69qnDiVR40NeDMAyk4QKmu4" alt="Offline Music Player" width="50" /> | **Offline Music Player** | A feature-rich local music player with equalizer, cross platform music share, smart playlists and more.<br><a href="https://play.google.com/store/apps/details?id=com.offlinemusicplayer"><img src="https://img.shields.io/badge/Play%20Store-3DDC84?style=for-the-badge&logo=google-play&logoColor=white"/></a> | Kotlin, Realm, MediaStore, MVVM |
 
 ---
 
