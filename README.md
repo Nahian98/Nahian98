@@ -51,7 +51,7 @@
 ---
 
 ### 🏆 Achievements & Highlights
-- ✅ Built and published **Offline Music Player** on Google Play with 100K+ downloads 
+- ✅ Built and published **Offline Music Player** on Google Play with 500K+ downloads 
 - 🧩 Implemented **custom media player & Wi-Fi Direct server** on Android  
 - 💡 Passionate about **developer productivity and app optimization**
 
