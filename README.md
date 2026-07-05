@@ -59,10 +59,10 @@
 
 ### 🌐 Connect With Me
 <p align="left">
-  <a href="https://linkedin.com/in/abdullah-al-nahian-kanon-931594296" target="_blank">
+  <a href="https://www.linkedin.com/in/abdullah-nahian98/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
-  <a href="mailto:al.nahiaan024@gmail.com" target="_blank">
+  <a href="mailto:abdullahalnahiankanon@gmail.com" target="_blank">
     <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
 </p>
