@@ -11,7 +11,7 @@
 - 💬 Ask me about **Kotlin, Jetpack Compose, Android internals, or app performance optimization**
 - ⚙️ Experienced with **Offline-first apps**, **Media Players**, **File Sharing (HTTP, WebSocket, Wi-Fi Direct)**, and **custom UI components**
 - 📈 2.5+ years of professional Android development experience
-- 📫 How to reach me: **al.nahiaan024@gmail.com**
+- 📫 How to reach me: **abdullahalnahiankanon@gmail.com**
 
 ---
 
